@@ -1,0 +1,7 @@
+C:\ctrNumeric\ctrNumeric\obj\Release\ctrNumeric.Properties.Resources.resources
+C:\ctrNumeric\ctrNumeric\obj\Release\ctrNumeric.csproj.GenerateResource.cache
+C:\ctrNumeric\ctrNumeric\obj\Release\ctrNumeric.dll
+C:\ctrNumeric\ctrNumeric\obj\Release\ctrNumeric.pdb
+C:\ctrNumeric\ctrNumeric.dll
+C:\ctrNumeric\ctrNumeric.pdb
+C:\ctrNumeric\ctrNumeric\obj\Release\ctrNumeric.csprojAssemblyReference.cache

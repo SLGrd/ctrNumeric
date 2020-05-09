@@ -1,0 +1,8 @@
+C:\ctrNumeric\ctrNumeric\obj\Debug\ctrNumeric.csprojAssemblyReference.cache
+C:\ctrNumeric\ctrNumeric\obj\Debug\ctrNumeric.Properties.Resources.resources
+C:\ctrNumeric\ctrNumeric\obj\Debug\ctrNumeric.csproj.GenerateResource.cache
+C:\ctrNumeric\ctrNumeric\obj\Debug\ctrNumeric.csproj.CoreCompileInputs.cache
+C:\ctrNumeric\ctrNumeric\bin\Debug\ctrNumeric.dll
+C:\ctrNumeric\ctrNumeric\bin\Debug\ctrNumeric.pdb
+C:\ctrNumeric\ctrNumeric\obj\Debug\ctrNumeric.dll
+C:\ctrNumeric\ctrNumeric\obj\Debug\ctrNumeric.pdb
